@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zach McNulty – Resume
+title: Resume
 ---
 
 # Zach McNulty  
@@ -12,15 +12,6 @@ title: Zach McNulty – Resume
 ## Profile
 
 Creative, detail-oriented web developer with a strong front-end foundation, experienced in building robust, responsive interfaces with Vue.js and delivering full-featured apps through cross-functional collaboration. Known for driving scalable solutions and a commitment to high code quality. Passionate about expanding technical skillset while continuing to create exceptional front-end experiences.
-
----
-
-## Skills
-
-- **Languages**: JavaScript, Python, SQL  
-- **Frameworks & Libraries**: Vue.js (v2/3), React (v18+), FastAPI  
-- **Tools & Technologies**: Git, REST APIs, Firebase, SQLite  
-- **Testing**: Cypress, code coverage tools
 
 ---
 
@@ -50,6 +41,15 @@ Creative, detail-oriented web developer with a strong front-end foundation, expe
 
 ---
 
+## Skills
+
+- **Languages**: JavaScript, Python, SQL  
+- **Frameworks & Libraries**: Vue.js (v2/3), React (v18+), FastAPI  
+- **Tools & Technologies**: Git, REST APIs, Firebase, SQLite  
+- **Testing**: Cypress, code coverage tools
+
+---
+
 ## Education
 
 **CS50x: Introduction to Computer Science**  
@@ -57,3 +57,7 @@ HarvardX — *Completed May 2025*
 
 **Bachelor of Science in Education**  
 Northwest Missouri State University — *2007 – 2011, Maryville, MO*
+
+---
+
+<a href="/assets/zach-mcnulty-resume.pdf" download>Download my resume (PDF)</a>
